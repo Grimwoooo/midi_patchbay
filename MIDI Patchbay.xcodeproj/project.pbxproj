@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 45;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -279,7 +279,7 @@
 				LastUpgradeCheck = 1340;
 			};
 			buildConfigurationList = C101046C088A0A7C001DFE4F /* Build configuration list for PBXProject "MIDI Patchbay" */;
-			compatibilityVersion = "Xcode 3.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 1;
 			knownRegions = (
